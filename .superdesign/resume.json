@@ -1,6 +1,49 @@
 {
   "schemaVersion": 1,
   "targets": {
+    "/imovel-alphaville": {
+      "targetKind": "existing-ui",
+      "projectId": "4f7c8697-f2f4-400d-891f-7eb7a55e15d3",
+      "activeDraftId": "7216e0db-fe81-4b2d-8ecc-33d0e37d494d",
+      "designSystemPath": ".superdesign/design-system.md",
+      "referenceIds": [
+        "931fa9e3-48e4-421d-a8c2-130df031bea0",
+        "website-domuriimoveis.com.br-logo"
+      ],
+      "brandAssets": {
+        "logo": {
+          "assetKey": "website-domuriimoveis.com.br-logo",
+          "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/projects/4f7c8697-f2f4-400d-891f-7eb7a55e15d3/brand-assets/website-domuriimoveis.com.br-logo/logo.png",
+          "sourcePath": ".superdesign/website/domuriimoveis.com.br/brand/logo.png"
+        }
+      },
+      "contextFiles": [
+        ".superdesign/design-system.md",
+        ".superdesign/website/domuriimoveis.com.br/design.md",
+        ".superdesign/website/domuriimoveis.com.br/content-structure.md",
+        ".superdesign/init/theme.md",
+        ".superdesign/init/layouts.md",
+        "imovel.html",
+        "index.html"
+      ],
+      "fingerprints": {
+        ".superdesign/design-system.md": "e5cbe5705a9839d614e0db08c63a5246b6fcdd41cc5ad07eeb024857caa0bc9c",
+        ".superdesign/website/domuriimoveis.com.br/design.md": "dcfb2df9ecdb476999cdf4872311543fd568f2edc926834d3b619ef248d707df",
+        ".superdesign/website/domuriimoveis.com.br/content-structure.md": "f9a1944ab7392bc055af28fa5534c4d2b372d537469fbe67ecca6f9d5a45a9af",
+        ".superdesign/init/theme.md": "682c130258189c2c9695aa97cdc4db64ce6d04b0d7fbe75e607f08b9bf318683",
+        ".superdesign/init/layouts.md": "067bb5317b3cb4d650761329604f260a0d04ee65affa51635bfe7bd98bc38cb0",
+        "imovel.html": "218f2d05f2c654777a014c65ed01c08fc0c93153edafcfacfd0b13ab211488e7",
+        "index.html": "45957eadedf7580ad0d7afcf5a8122ae84effb8986d98a7b5614912165aa939f"
+      },
+      "drafts": {
+        "7216e0db-fe81-4b2d-8ecc-33d0e37d494d": {
+          "title": "Residencial Marriot · Seleção Alphaville",
+          "visualDirection": "Editorial arquitetônica com hero, métricas, atributos numerados, mosaico de fotos e contraste Alphaville escuro",
+          "currentVersion": 1
+        }
+      },
+      "updatedAt": "2026-08-28T20:54:00-03:00"
+    },
     "/": {
       "targetKind": "new-ui",
       "projectId": "4f7c8697-f2f4-400d-891f-7eb7a55e15d3",
