@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "url": "https://www.domuriimoveis.com.br",
+    "title": "Domuri Imobiliária",
+    "description": "Imobiliária com atuação estratégica na compra e venda  de imóveis exclusivos em Gravataí e região.",
+    "language": "pt-BR",
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+    "themeColor": null,
+    "ogImage": "https://s01.jetimgs.com/tnnAwYXphKBPiW3sr35S56TSBu41PCPMXJgG4UpLuMhmB5uKGXsEydyXaxruLCKtnCpQbjr2aUMWGZk7D1xNvMOSglqRNlpI7GDo1qNGClJxYsufQ0loxgsZ/logositepng.webp",
+    "ogTitle": "Domuri Imobiliária",
+    "ogDescription": "Imobiliária com atuação estratégica na compra e venda  de imóveis exclusivos em Gravataí e região."
+  },
+  "theme": {
+    "mode": "light",
+    "bodyBackground": "#fafafa",
+    "isDark": false,
+    "confidence": 0.9
+  },
+  "brand": {
+    "name": "Domuri Imobiliária",
+    "favicon": {
+      "href": "https://s01.jetimgs.com/tnnAwYXphKBPiW3sr35S56TSBu41PCPMXJgG4UpLuMhmB5uKGXsEydyXaxruLCKtnCpSjT4VbMKRHnwiaGDwAQKsP9gXsmAUEpmrk4U4MFtyThQpsXsEObc/logofaviconpng.webp",
+      "type": null
+    }
+  },
+  "colors": {
+    "dominant": [
+      {
+        "hex": "#424242",
+        "ratio": 0.676
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.133
+      },
+      {
+        "hex": "#ffffff",
+        "ratio": 0.101
+      },
+      {
+        "hex": "#575757",
+        "ratio": 0.043
+      },
+      {
+        "hex": "#6a511b",
+        "ratio": 0.022
+      },
+      {
+        "hex": "#dddddd",
+        "ratio": 0.013
+      },
+      {
+        "hex": "#959595",
+        "ratio": 0.004
+      },
+      {
+        "hex": "#fafafa",
+        "ratio": 0.002
+      },
+      {
+        "hex": "#005ac4",
+        "ratio": 0.002
+      },
+      {
+        "hex": "#f1f1f1",
+        "ratio": 0.001
+      },
+      {
+        "hex": "#e6effa",
+        "ratio": 0
+      }
+    ],
+    "palette": [
+      {
+        "hex": "#fafafa",
+        "role": "background",
+        "source": "computed"
+      },
+      {
+        "hex": "#424242",
+        "role": "foreground",
+        "source": "computed"
+      },
+      {
+        "hex": "#005ac4",
+        "role": "primary",
+        "source": "heuristic"
+      },
+      {
+        "hex": "#6a511b",
+        "role": "secondary",
+        "source": "heuristic"
+      },
+      {
+        "hex": "#575757",
+        "role": "neutral",
+        "source": "heuristic"
+      }
+    ],
+    "cssVariables": {
+      "--primary-color": "#6a511b",
+      "--PhoneInput-color--focus": "#03b2cb",
+      "--secondary-color": "#bf9c3e",
+      "--color": "#424242",
+      "--PhoneInputCountrySelectArrow-color--focus": "#03b2cb",
+      "--ig-black": "#000",
+      "--PhoneInputCountryFlag-borderColor": "#000000",
+      "--PhoneInputCountryFlag-backgroundColor--loading": "#000000",
+      "--gray-background": "#f1f1f1",
+      "--card-background-color": "#fafafa",
+      "--primary-background": "#6a511b",
+      "--ig-primary-color": "#337ab7",
+      "--ig-background-overlay": "#000000",
+      "--image-overlay-color": "#000000",
+      "--separator-color": "#dddddd",
+      "--error-text-color": "#ff5151",
+      "--paragraph-color": "#575757",
+      "--white-button-background": "#fafafa",
+      "--background-color": "#fafafa",
+      "--PhoneInputCountryFlag-borderColor--focus": "#03b2cb",
+      "--light-paragraph-color": "#4b4b4b",
+      "--footer-background-color": "#fafafa",
+      "--ig-white": "#fff",
+      "--marker-bg": "#2c858a",
+      "--rdp-accent-color": "#00f",
+      "--rdp-background-color": "#e7edff",
+      "--rdp-accent-color-dark": "#3003e1",
+      "--rdp-background-color-dark": "#180270",
+      "--rdp-selected-color": "#fff"
+    },
+    "gradients": []
+  },
+  "logo": {
+    "status": "confirmed",
+    "reason": null,
+    "best": {
+      "selector": "img._logoImg_1w97g_55",
+      "href": "https://s01.jetimgs.com/tnnAwYXphKBPiW3sr35S56TSBu41PCPMXJgG4UpLuMhmB5uKGXsEydyXaxruLCKtnCpSbjr2aUMWGZk7D1xNvMOSglqRNlpI7GDo1qNGClJxYstBQ099UIdF/logositepng.webp",
+      "type": "webp",
+      "width": 178,
+      "height": 100,
+      "svgContent": null,
+      "colors": [],
+      "isLight": false,
+      "isDark": false,
+      "needsDarkBackground": false,
+      "needsLightBackground": false,
+      "ownership": "third-party",
+      "headerScoped": true,
+      "variant": "color",
+      "brandNameOnLogo": "DOMURI IMOBILIÁRIA",
+      "uploadedUrl": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/1f81e670-a061-445f-8fe3-fc72396e776e.png"
+    },
+    "candidates": [
+      {
+        "selector": "svg._jetimobLogo_df74f_147",
+        "href": null,
+        "type": "svg",
+        "width": 120,
+        "height": 30,
+        "svgContent": "<svg width=\"120\" height=\"30\" viewBox=\"0 0 500 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"logo-jetimob\" class=\"_jetimobLogo_df74f_147\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M31.3828 11.5561C31.3828 14.3782 30.4885 16.5553 28.6185 18.168C26.8299 19.7806 24.6347 20.587 22.1956 20.587C19.7565 20.587 17.5614 19.7806 15.7727 18.168C13.984 16.5553 13.0084 14.3782 13.0084 11.5561C13.0084 8.73394 13.9027 6.55686 15.7727 4.9442C17.5614 3.33154 19.7565 2.52521 22.1956 2.52521C24.6347 2.52521 26.8299 3.33154 28.6185 4.9442C30.4885 6.55686 31.3828 8.73394 31.3828 11.5561ZM67.7251 25.6668V38.2456C66.099 38.2456 64.7169 38.5681 63.5786 39.1325C62.2778 39.697 61.2209 40.4227 60.4078 41.3903C59.5948 42.3579 58.9444 43.4061 58.5379 44.6962C58.05 45.9863 57.7248 47.1958 57.5622 48.486H67.7251V58.8876H57.5622C57.8874 62.0323 59.3509 64.5319 61.9526 66.3058C63.4973 67.4347 65.4486 68.1604 67.6438 68.6442V82.0292C63.9038 81.9486 60.6517 81.2229 57.7248 80.094C54.1475 78.6426 51.1393 76.7075 48.7816 74.2078C46.3425 71.7082 44.6351 68.7248 43.4969 65.3382C42.3587 61.9516 41.7895 58.3232 41.7895 54.3722C41.7895 49.6148 42.5213 45.4219 43.9847 41.8741C45.4482 38.2456 47.3994 35.2622 49.8385 32.9238C52.2776 30.5048 54.9606 28.7309 58.1314 27.5214C61.2209 26.2313 64.3917 25.6668 67.7251 25.6668ZM9.59371 99.6878C8.61807 99.6878 7.23593 99.6072 5.28467 99.3653C3.41471 99.1234 1.62605 98.8009 0 98.2364L2.03256 85.8996C3.0895 86.2221 3.98383 86.464 4.87816 86.6253C5.77248 86.7866 6.82942 86.7866 8.13026 86.7866C10.5693 86.7866 12.1954 86.0609 13.171 84.6095C14.1467 83.2387 14.6345 81.1423 14.6345 78.4007V27.0376H30.0007V78.8039C30.0007 85.8996 28.212 91.1407 24.716 94.5273C21.22 97.9945 16.1792 99.6878 9.59371 99.6878ZM177.24 29.2147C179.435 28.6503 182.362 28.0858 185.939 27.4408C189.516 26.7957 193.744 26.5538 198.46 26.5538C201.874 26.5538 204.801 27.0376 207.078 27.9246C209.435 28.8115 211.387 30.1823 212.932 31.9562C213.419 31.6337 214.151 31.1499 215.208 30.5048C216.265 29.8598 217.484 29.2953 219.029 28.7309C220.574 28.1665 222.2 27.602 224.07 27.1989C225.94 26.7957 227.891 26.5538 230.005 26.5538C234.151 26.5538 237.485 27.1182 240.087 28.3277C242.688 29.5372 244.721 31.2305 246.184 33.4076C247.648 35.5847 248.623 38.1649 249.192 41.1484C249.68 44.1318 249.924 47.4377 249.924 50.9856V80.8197H240.33V53.0014C240.33 49.8567 240.168 47.1958 239.843 44.9381C239.517 42.6804 238.948 40.8258 238.054 39.2938C237.16 37.7618 236.021 36.7136 234.558 35.9879C233.095 35.2622 231.143 34.9396 228.867 34.9396C225.615 34.9396 223.013 35.3428 220.899 36.2298C218.785 37.0361 217.403 37.8424 216.671 38.4875C217.241 40.2614 217.647 42.1966 217.891 44.293C218.135 46.3895 218.297 48.6472 218.297 50.9049V80.7391H208.704V53.0014C208.704 49.8567 208.541 47.1958 208.216 44.9381C207.891 42.6804 207.24 40.8258 206.427 39.2938C205.533 37.7618 204.395 36.7136 202.931 35.9879C201.468 35.2622 199.598 34.9396 197.321 34.9396C196.346 34.9396 195.37 34.9396 194.232 35.0203C193.175 35.1009 192.118 35.1815 191.061 35.2622C190.085 35.3428 189.191 35.5041 188.378 35.5847C187.565 35.746 186.996 35.8266 186.752 35.9072V80.7391H177.24C177.24 80.8197 177.24 29.2147 177.24 29.2147ZM155.938 18.0874C154.231 18.0874 152.768 17.5229 151.548 16.3941C150.328 15.2652 149.759 13.7332 149.759 11.8786C149.759 9.94344 150.328 8.49204 151.548 7.36318C152.768 6.23432 154.231 5.66989 155.938 5.66989C157.646 5.66989 159.109 6.23432 160.329 7.36318C161.548 8.49204 162.117 10.0241 162.117 11.8786C162.117 13.8138 161.548 15.2652 160.329 16.3941C159.109 17.5229 157.646 18.0874 155.938 18.0874ZM160.817 80.8197H151.223V27.6827H160.817V80.8197ZM103.986 13.7332L119.352 11.3142V27.1182H137.808V39.7776H119.352V58.6457C119.352 61.871 119.921 64.3706 121.06 66.3058C122.198 68.241 124.474 69.128 127.889 69.128C129.515 69.128 131.222 68.9667 133.011 68.6442C134.8 68.3216 136.344 67.9185 137.808 67.354L140.003 79.2071C138.133 79.9328 136.101 80.5778 133.824 81.1423C131.548 81.7067 128.783 81.9486 125.45 81.9486C121.222 81.9486 117.807 81.3842 115.043 80.2553C112.279 79.1264 110.084 77.5944 108.458 75.5786C106.832 73.5628 105.693 71.1438 105.043 68.241C104.393 65.4189 104.067 62.1935 104.067 58.7263C103.986 58.807 103.986 13.7332 103.986 13.7332ZM67.7251 58.9682V48.486H77.8879C77.7253 47.1958 77.5627 45.9863 77.1562 44.7768C76.7496 43.5673 76.1805 42.4385 75.4488 41.5515C74.6358 40.5839 73.6601 39.7776 72.4406 39.2132C71.2211 38.4875 69.7576 38.2456 67.969 38.2456H67.7251V25.6668H67.8064C75.5301 25.6668 81.5465 28.0052 86.0182 32.6819C90.4898 37.3586 92.685 44.2124 92.685 53.2433C92.685 54.1303 92.685 55.0978 92.6037 56.1461C92.5224 57.1943 92.441 58.1619 92.3597 58.9682H67.7251ZM67.7251 82.1098V68.7248C69.1072 68.9667 70.7333 69.128 72.4406 69.128C75.2862 69.128 78.0505 68.8861 80.7335 68.3216C83.4165 67.8378 85.6116 67.1928 87.4003 66.4671L89.4329 78.8845C88.6198 79.2877 87.4816 79.6909 86.0994 80.094C84.7173 80.4972 83.1726 80.8197 81.5465 81.1423C79.8391 81.4648 78.0505 81.7067 76.1805 81.868C74.2293 82.0292 72.3593 82.1905 70.4081 82.1905C69.5137 82.1905 68.5381 82.1905 67.7251 82.1098ZM288.055 26.3925V34.7784C283.421 34.7784 279.681 36.5523 276.998 40.0195C274.315 43.4867 272.933 48.2441 272.933 54.2915C272.933 60.339 274.315 65.0157 276.998 68.5635C279.681 72.0307 283.421 73.8047 288.055 73.8047V82.1905C284.396 82.1905 281.063 81.5454 277.974 80.1747C274.884 78.8845 272.201 76.9494 270.006 74.5304C267.811 72.1114 266.022 69.128 264.803 65.7414C263.583 62.3548 262.933 58.4844 262.933 54.2915C262.933 50.0986 263.583 46.3089 264.803 42.9223C266.022 39.4551 267.811 36.5523 270.006 34.0527C272.201 31.6337 274.884 29.6985 277.974 28.4084C281.063 27.0376 284.396 26.3925 288.055 26.3925ZM288.055 82.1098V73.724C292.689 73.724 296.429 71.9501 299.112 68.4829C301.795 65.0157 303.177 60.2584 303.177 54.2109C303.177 48.1634 301.795 43.4867 299.112 39.9389C296.429 36.391 292.689 34.6977 288.055 34.6977V26.3925C291.714 26.3925 295.047 27.0376 298.137 28.4084C301.226 29.7791 303.909 31.6337 306.104 34.0527C308.299 36.4717 310.088 39.4551 311.308 42.9223C312.527 46.3895 313.178 50.1792 313.178 54.2915C313.178 58.4844 312.527 62.3548 311.308 65.7414C310.088 69.128 308.299 72.0307 306.104 74.5304C303.909 76.9494 301.226 78.8845 298.137 80.1747C295.047 81.4648 291.632 82.1098 288.055 82.1098ZM350.008 26.4732V34.859C349.52 34.859 348.951 34.7784 348.463 34.7784C345.861 34.7784 343.422 35.1815 341.227 36.0685C339.032 36.9554 337.324 37.8424 336.186 38.81V72.4339C337.162 72.6758 338.463 72.9177 340.251 73.1596C341.959 73.4015 344.154 73.4821 346.756 73.4821C347.894 73.4821 348.951 73.4015 349.926 73.2402V81.7067C348.951 81.7873 347.894 81.868 346.837 81.868C342.365 81.868 338.463 81.5454 334.967 80.981C331.552 80.3359 328.706 79.7715 326.511 79.1264V3.17027L336.105 1.55762V30.021C337.406 29.2953 339.113 28.489 341.471 27.6827C343.829 26.8763 346.593 26.4732 349.682 26.4732H350.008ZM350.008 81.868V73.4015C353.666 72.8371 356.756 71.2244 359.195 68.5635C362.284 65.177 363.829 60.4196 363.829 54.2109C363.829 51.4694 363.585 48.9697 363.016 46.5508C362.447 44.2124 361.553 42.116 360.333 40.342C359.114 38.6487 357.488 37.278 355.536 36.2298C353.992 35.4234 352.122 34.9396 350.008 34.7784V26.3925C353.748 26.3925 357 27.1182 359.927 28.4084C362.935 29.7791 365.455 31.7143 367.488 34.1333C369.52 36.5523 371.065 39.5357 372.203 42.9223C373.26 46.3089 373.829 50.0986 373.829 54.1302C373.829 58.4038 373.179 62.2742 371.959 65.7414C370.659 69.2086 368.87 72.1114 366.593 74.4497C364.236 76.8687 361.471 78.6426 358.138 79.9328C355.618 81.0616 352.935 81.6261 350.008 81.868Z\" fill=\"#284670\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M454.05 91.8997C428.648 91.8997 408.1 71.3698 408.1 45.9903C408.1 20.5299 428.648 0 454.05 0V18.3476C452.756 18.3476 451.542 18.8326 450.49 19.8025L428.001 41.2215C425.978 43.1614 426.059 46.5561 428.001 48.6576C428.972 49.7083 430.347 50.1933 431.722 50.1933H434.796V64.3379C434.796 66.8435 436.9 68.945 439.407 68.945H441.834C444.342 68.945 446.446 66.8435 446.446 64.3379V54.7196C446.446 52.2139 448.549 50.1124 451.057 50.1124H454.131C454.05 50.1124 454.05 91.8997 454.05 91.8997ZM454.05 0C479.452 0 500 20.5299 500 45.9095C500 71.289 479.452 91.8189 454.05 91.8189V50.1124H457.124C459.632 50.1124 461.735 52.2139 461.735 54.7196C461.735 57.9526 461.735 61.1049 461.735 64.3379C461.735 66.8435 463.839 68.945 466.346 68.945H468.773C471.281 68.945 473.385 66.8435 473.385 64.3379V50.1124H476.459C477.834 50.1933 479.128 49.6275 480.18 48.5767C482.121 46.5561 482.202 43.0805 480.18 41.1407L457.609 19.7217C456.558 18.7518 455.344 18.2668 454.05 18.2668C454.05 18.3476 454.05 0 454.05 0Z\" fill=\"#284670\"></path></svg>",
+        "colors": [
+          "#284670"
+        ],
+        "isLight": false,
+        "isDark": true,
+        "needsDarkBackground": false,
+        "needsLightBackground": true,
+        "ownership": "first-party"
+      },
+      {
+        "selector": "img._logoImg_1w97g_55",
+        "href": "https://s01.jetimgs.com/tnnAwYXphKBPiW3sr35S56TSBu41PCPMXJgG4UpLuMhmB5uKGXsEydyXaxruLCKtnCpSbjr2aUMWGZk7D1xNvMOSglqRNlpI7GDo1qNGClJxYstBQ099UIdF/logositepng.webp",
+        "type": "webp",
+        "width": 178,
+        "height": 100,
+        "svgContent": null,
+        "colors": [],
+        "isLight": false,
+        "isDark": false,
+        "needsDarkBackground": false,
+        "needsLightBackground": false,
+        "ownership": "third-party",
+        "headerScoped": true
+      },
+      {
+        "selector": "img._imgLogo_df74f_46",
+        "href": "https://s01.jetimgs.com/tnnAwYXphKBPiW3sr35S56TSBu41PCPMXJgG4UpLuMhmB5uKGXsEydyXaxruLCKtnCpSbjr2aUMWGZk7D1xNvMOSglqRNlpI7GDo1qNGClJxYstBQ099UIdF/logositepng.webp",
+        "type": "webp",
+        "width": 178,
+        "height": 100,
+        "svgContent": null,
+        "colors": [],
+        "isLight": false,
+        "isDark": false,
+        "needsDarkBackground": false,
+        "needsLightBackground": false,
+        "ownership": "third-party"
+      }
+    ]
+  },
+  "fonts": {
+    "computed": [
+      {
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "weights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "source": "system"
+      }
+    ],
+    "baseSizePx": 16
+  },
+  "confidence": {
+    "colorExtraction": 0.9,
+    "logoDetection": 0.95,
+    "fontDetection": 0.8
+  },
+  "screenshot": {
+    "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/screenshot.png",
+    "width": 1920,
+    "height": 1080,
+    "sizeBytes": 793003,
+    "uploadedAt": "2026-08-28T19:39:19.305Z"
+  },
+  "assets": {
+    "1f81e670-a061-445f-8fe3-fc72396e776e": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/1f81e670-a061-445f-8fe3-fc72396e776e.png",
+      "name": "logositepng.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "5.49 KB",
+        "mimeType": "image/png",
+        "sizeBytes": 5620,
+        "uploadedAt": "2026-08-28T19:39:20.040Z"
+      }
+    },
+    "e635eec6-afc1-41a5-bb98-92b38ebd543c": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/e635eec6-afc1-41a5-bb98-92b38ebd543c.png",
+      "name": "coversitepng.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "49.61 KB",
+        "mimeType": "image/png",
+        "sizeBytes": 50802,
+        "uploadedAt": "2026-08-28T19:39:19.472Z"
+      }
+    },
+    "4b72506e-81ba-4ec3-b3e5-5de2607a486f": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/4b72506e-81ba-4ec3-b3e5-5de2607a486f.jpg",
+      "name": "img5223jpg.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "99.56 KB",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 101952,
+        "uploadedAt": "2026-08-28T19:39:19.581Z"
+      }
+    },
+    "96601cf2-f417-49a1-a6a9-e31577ee2e6a": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/96601cf2-f417-49a1-a6a9-e31577ee2e6a.jpg",
+      "name": "img5131jpg.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "100.96 KB",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 103382,
+        "uploadedAt": "2026-08-28T19:39:19.587Z"
+      }
+    },
+    "4c3129d6-1699-4512-a226-568754162b06": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/4c3129d6-1699-4512-a226-568754162b06.jpg",
+      "name": "img5133jpg.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "52.66 KB",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 53924,
+        "uploadedAt": "2026-08-28T19:39:19.643Z"
+      }
+    },
+    "efb1470a-5561-4dbb-ac01-a4f5449e8194": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/efb1470a-5561-4dbb-ac01-a4f5449e8194.jpg",
+      "name": "alphaville-23jpg.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "184.82 KB",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 189258,
+        "uploadedAt": "2026-08-28T19:39:20.603Z"
+      }
+    },
+    "341d7b93-b881-419d-9599-5804ff1b3e80": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/341d7b93-b881-419d-9599-5804ff1b3e80.jpg",
+      "name": "alphaville-80jpg.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "98.67 KB",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 101038,
+        "uploadedAt": "2026-08-28T19:39:20.320Z"
+      }
+    },
+    "6ac51ebf-aca0-4cf4-b6de-c93e1563a699": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/6ac51ebf-aca0-4cf4-b6de-c93e1563a699.jpg",
+      "name": "parquelinear-anfiteatrojpg.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "233.32 KB",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 238918,
+        "uploadedAt": "2026-08-28T19:39:20.880Z"
+      }
+    },
+    "371b8c74-f14d-4e2a-ad30-b144f7f23eeb": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/371b8c74-f14d-4e2a-ad30-b144f7f23eeb.jpg",
+      "name": "arboretto04jpg.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "168.43 KB",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 172474,
+        "uploadedAt": "2026-08-28T19:39:20.396Z"
+      }
+    },
+    "2e499076-b358-43f6-b8c3-98b9bd42f753": {
+      "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/brand/091e78cb-e26e-4373-a9ee-6955e76f876c/assets/2e499076-b358-43f6-b8c3-98b9bd42f753.jpg",
+      "name": "prado-30-entrada2jpg.webp",
+      "type": "image",
+      "description": "",
+      "metadata": {
+        "size": "144.76 KB",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 148234,
+        "uploadedAt": "2026-08-28T19:39:20.271Z"
+      }
+    }
+  }
+}
