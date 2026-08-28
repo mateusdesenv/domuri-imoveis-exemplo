@@ -34,7 +34,7 @@
         ".superdesign/website/domuriimoveis.com.br/content-structure.md": "f9a1944ab7392bc055af28fa5534c4d2b372d537469fbe67ecca6f9d5a45a9af",
         ".superdesign/init/theme.md": "682c130258189c2c9695aa97cdc4db64ce6d04b0d7fbe75e607f08b9bf318683",
         ".superdesign/init/layouts.md": "067bb5317b3cb4d650761329604f260a0d04ee65affa51635bfe7bd98bc38cb0",
-        "index.html": "2b817b6211ac48bd405eb064defabc8dda84ac6ef75beb1514652d3db3269a7c",
+        "index.html": "45957eadedf7580ad0d7afcf5a8122ae84effb8986d98a7b5614912165aa939f",
         "imovel.html": "87c3685499fa19f07d301f04c25276da80579ffba1a48fcb6dd0fed2d4fc28c0",
         "imovel-alternativo.html": "0352ed5ab015be1c25fceac6f6f17a2f1e080360579418eec62d38daf19f2dca"
       },
@@ -54,12 +54,12 @@
       ],
       "drafts": {
         "39e62f3a-a171-45e1-8595-9d286ad27e2d": {
-          "title": "Domuri Imobiliária — Home",
-          "visualDirection": "Rebuild fiel da home oficial com hero fotográfico e um único imóvel em destaque",
-          "currentVersion": 1
+          "title": "Domuri Imobiliária — Home com seção Alphaville premium",
+          "visualDirection": "Home Domuri preservada com seção Alphaville implementada em carvão escuro, contraste branco e acentos bronze",
+          "currentVersion": 2
         }
       },
-      "updatedAt": "2026-08-28T19:54:30-03:00"
+      "updatedAt": "2026-08-28T20:36:00-03:00"
     }
   }
 }
