@@ -9,33 +9,8 @@
   <title>Residencial Marriot · Seleção Domuri</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
-  <style>
-    html { scroll-behavior: smooth; }
-    :focus-visible { outline: 2px solid #6a511b; outline-offset: 4px; }
-    @view-transition { navigation: auto; }
-    ::view-transition-old(root),
-    ::view-transition-new(root) {
-      animation-duration: .4s;
-      animation-timing-function: cubic-bezier(.4, 0, .2, 1);
-    }
-    ::view-transition-old(root) { animation-name: fade-out; }
-    ::view-transition-new(root) { animation-name: fade-in; }
-    @keyframes fade-out {
-      from { opacity: 1; transform: scale(1); }
-      to { opacity: 0; transform: scale(.98); }
-    }
-    @keyframes fade-in {
-      from { opacity: 0; transform: scale(1.02); }
-      to { opacity: 1; transform: scale(1); }
-    }
-    @media (prefers-reduced-motion: reduce) {
-      html { scroll-behavior: auto; }
-      *, *::before, *::after {
-        animation-duration: .01ms !important;
-        transition-duration: .01ms !important;
-      }
-    }
-  </style>
+  
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="min-h-screen overflow-x-hidden bg-[#fafafa] font-sans text-[#424242] antialiased">
@@ -310,5 +285,6 @@
       </div>
     </footer>
   </div>
+  <script src="script.js"></script>
 </body>
 </html>
